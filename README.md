@@ -1,6 +1,5 @@
 # web-scraping
 
-Python Assignment
 From any product URL we can extact the required fields like 
 • Product Name
 • Product Price
